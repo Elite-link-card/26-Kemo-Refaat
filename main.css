@@ -894,11 +894,11 @@
 
 .card-mockup-details-icon {
   border-radius: 50%;
-  background-color: #f55957;
+  background-color: #000000;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #fff;
+  color: #000000;
   min-height: 16px;
   min-width: 16px;
   height: 16px;
@@ -1034,15 +1034,12 @@ html {
   justify-content: top;
   position: relative;
   border-radius: 12px;
-  background: #ffffff00;
-background-image: url( https://i.ibb.co/F8gG9MH/Untitled-design-2.png);
+  background:  #000;
 }
-@keyframes  url(Untitled\ design\ \(1\).png){
-  max-width: 100%;
-}
-}
+
+
 html {
-  color: var(--neutral-800);
+  color: #000000;
   overflow-y: scroll;
   max-height: 100%;
 }
@@ -1170,7 +1167,7 @@ fieldset {
 }
 
 .input-field {
-  background: #ffffff;
+  background: #000000;
 }
 
 .input-field.initially-hidden {
@@ -2592,7 +2589,7 @@ font-size: 1rem;}
   left: 11px;
   top: 15px;
 }
-
+.fa-tiktok,
 .fa-instagram,
 .fa-whatsapp {
   left: 10px;
