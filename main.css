@@ -2900,6 +2900,7 @@ justify-content: center;
   align-items: center;
   justify-content: center;
   justify-self: center;
+  text-decoration: none;
   margin-left: 50%;
   transform: translateX(-50%);
 }
